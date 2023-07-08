@@ -10,7 +10,5 @@ website - https://openweathermap.org/api
 
 By combining the use of location permission and the weather API, the application aims to deliver real-time and accurate weather information tailored to your location. It provides convenience and the ability to stay updated on weather conditions both locally and for other places of interest.
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+
 
