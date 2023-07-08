@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { BASE_KEY } from './ApiKey';
 import { API_KEY } from './ApiKey';
 
-import "../css/SearchByCity.css"
+import "../css/searchByCity.css"
 import SearchCityData from './SearchCityData';
 
 function SearchByCity() {
