@@ -10,8 +10,7 @@ website - https://openweathermap.org/api
 
 By combining the use of location permission and the weather API, the application aims to deliver real-time and accurate weather information tailored to your location. It provides convenience and the ability to stay updated on weather conditions both locally and for other places of interest.
 
-![image](https://github.com/roshanpawar17/weather-app/assets/131489057/b629d7f7-5133-4c0a-ac82-e2cf96a86d0c)
-![image](https://github.com/roshanpawar17/weather-app/assets/131489057/5d8397d9-b59f-49cf-ac22-8cb1acb426c7)
-![image](https://github.com/roshanpawar17/weather-app/assets/131489057/34b8d854-5a2b-4dc3-92e6-83756eebbc96)
-
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
 
