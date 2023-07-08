@@ -1,0 +1,24 @@
+.city-container{
+    /* border: 2px solid; */
+    max-width: 50vw;
+    min-height: 30vh;
+    color: white;    
+    margin: 50px;
+    text-align: center;
+    padding: 15px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+.city-container form input{
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    font-size: 19px;
+    
+}
+.city-container form input:focus{
+    outline: none;
+}
